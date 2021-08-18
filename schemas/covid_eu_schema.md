@@ -17,3 +17,5 @@
 ## Source
 
 * https://ec.europa.eu/health/sites/default/files/ehealth/docs/vaccination-proof_interoperability-guidelines_en.pdf
+* https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en 
+* https://www.consilium.europa.eu/en/policies/coronavirus/eu-digital-covid-certificate/ 
