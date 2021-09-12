@@ -4,7 +4,6 @@
 Issuer: Govt of Malaysia
 Country: Malaysia
 
-
 ## Fields
 
 |   | Attribute name                         | Description                                                      |
