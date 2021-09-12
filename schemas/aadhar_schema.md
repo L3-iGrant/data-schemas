@@ -1,8 +1,8 @@
 # Aadhar Card Data Schema (India)
 
 ## Metadata
-Issuer: Govt of India
-Country: India
+* Issuer: Govt of India
+* Country: India
 
 ## Fields
 
