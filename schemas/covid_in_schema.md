@@ -1,7 +1,7 @@
-# COVID-19 India Vaccination Certificate Data Schema
+# India Vaccination Certificate Data Schema (Covid-19)
 
 ## Metadata
-Issuer: Ministry of health
+Issuer: Ministry of health<br>
 Country: India
 
 ## Fields

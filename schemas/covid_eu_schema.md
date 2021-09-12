@@ -1,8 +1,8 @@
-# Covid19 EU Vaccination Certificate Schema
+# EU Digital Vaccination Certificate Schema (Covid-19)
 
 ## Metadata
-Issuer: <EU Member state>
-Country: <EU Member state> 
+* Issuer: EU member state
+* Country: EU member state
 
 ## Fields
 

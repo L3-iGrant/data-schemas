@@ -1,7 +1,10 @@
 # European Economic Area Passport Data Schema
 
-## Fields
+## Metadata
+* Issuer: EU member state
+* Country: EU member state
 
+## Fields
 
 |    | Attribute name            | Description                                            |
 |----|---------------------------|--------------------------------------------------------|
