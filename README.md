@@ -29,7 +29,7 @@ The table summarises the supported schemas.
 | Aadhar Card                           | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/aadhar_schema.md      |
 | EU Passport                           | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/passport_eu_schema.md    |
 | EU Digital Covid19 Certificate        | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_eu_schema.md   |
-| EU Test Covid19 Certificate        | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/test-certificate_eu_schema   |
+| EU Test Covid19 Certificate        | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/test-certificate_eu_schema  |
 | India Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_in_schema.md |                                                                                                 	|
 | Malaysia Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_mys_schema.md |                                                                                                 	|
 
