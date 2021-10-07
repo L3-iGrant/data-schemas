@@ -4,6 +4,9 @@
 * Certificate Issuer: E.g. "Ministry of Health"
 * Country: EU member state
 
+## Data card region
+All EU Countries
+
 ## Fields
 
 |   | Attribute name                         | Description                                                      |

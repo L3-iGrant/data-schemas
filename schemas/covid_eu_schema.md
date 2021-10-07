@@ -4,6 +4,9 @@
 * Issuer: EU member state
 * Country: EU member state
 
+## Data card region
+All EU Countries
+
 ## Fields
 
 |   | Attribute name                         | Description                                                      |
