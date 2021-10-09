@@ -3,7 +3,7 @@
 ## Metadata
 * Certificate name: Ditital Test Certificate
 * Certificate Issuer: E.g. "Ministry of Health" (**Note**: that this is coming from the scanned data)
-* Country: <EU member state>
+* Country: "EU member state"
 
 ## Data card region
 All EU Countries
