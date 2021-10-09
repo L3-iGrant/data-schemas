@@ -12,7 +12,7 @@ All EU Countries
 
 |   | Attribute name                         | Description                                                      |
 |---|----------------------------------------|------------------------------------------------------------------|
-| 1 | EU Certificate Issuer        | Full name of the individual                                      
+| 1 | EU Certificate Issuer        | The issuer of the certificate, e.g. Swedish e-Health Agency     |                         
 | 2 | EU Beneficiary Name         | Full name of the individual                                      |
 | 3 | EU Date Of Birth            | Date of birth of the individual                                  |
 | 4 | EU Member State             | Memberstate in EU where the individual has taken the tests |
