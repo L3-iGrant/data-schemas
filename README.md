@@ -24,15 +24,15 @@ This repository provides information on the various supported data schemaas by i
 
 The table summarises the supported schemas.
 
-| Schema name                           | URL                                                                               |
+| Schema name                           | Link                                                                               |
 |---------------------------------------|-----------------------------------------------------------------------------------|
 | Aadhar Card                           | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/aadhar_schema.md      |
 | EU Passport                           | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/passport_eu_schema.md    |
 | EU Digital Covid19 Certificate        | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_eu_schema.md   |
 | EU Test Covid19 Certificate        | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/test-certificate_eu_schema.md  |
-| India Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_in_schema.md |                                                                                                 	|
-| Malaysia Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_mys_schema.md |                                                                                                 	|
-
+| India Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_in_schema.md |                                                                                                 
+| Malaysia Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_mys_schema.md |  
+| United Kingdom Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_uk_schema.md |                                                                                  
 
 ## Contributing
 
