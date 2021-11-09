@@ -20,6 +20,11 @@ All EU Countries
 | 7 | Covid EU Vaccination Dosage            | Dosage info for vaccination provided, e.g. 1 of 2                   |
 | 8 | Covid EU Certificate Issuer            | Issuer of the vaccination certificate                            |
 
+#### Duplicate check field
+
+Following field value should be used for handling duplicate records:
+
+Covid EU Unique Certificate Identifier
 
 ## Source
 
