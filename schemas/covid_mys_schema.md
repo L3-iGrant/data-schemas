@@ -1,7 +1,7 @@
 # Malaysia Vaccination Certificate Schema (Covid-19)
 
 ## Metadata
-* Issuer: Government of Malaysia
+* Issuer: Ministry of Health, Government of Malaysia
 * Country: Malaysia
 
 ## Fields
