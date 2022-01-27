@@ -1,5 +1,13 @@
 # Boarding Pass Schema
 
+## Metadata
+
+nil
+
+## Data card region
+
+Global
+
 ## Fields
 
 
@@ -12,10 +20,7 @@
 | 5   | PKPASS BoardingPass Passenger            | Passenger name           |
 | 6   | PKPASS BoardingPass Boarding Time        | Boarding time            |
 | 7   | PKPASS BoardingPass Flight Number        | Flight number            |
-| 8   | PKPASS BoardingPass Travel Class         | Travel class             |
 | 9   | PKPASS BoardingPass Boarding Date        | Boarding date            |
-| 10  | PKPASS BoardingPass Passport Nationality | Passport nationality     |
-| 11  | PKPASS BoardingPass Residence            | Residence                |
 | 12  | PKPASS BoardingPass Class                | Ticket class             |
 | 13  | PKPASS BoardingPass Barcode Message      | Barcode message          |
 
