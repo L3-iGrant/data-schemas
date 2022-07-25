@@ -32,6 +32,7 @@ The table summarises the supported schemas.
 | EU Test Covid19 Certificate        | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/test-certificate_eu_schema.md  |
 | India Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_in_schema.md |                                                                                                 
 | Malaysia Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_mys_schema.md |  
+| MyData Profile | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/mydata_profile_schema.md |  
 | United Kingdom Covid19 Vaccination Certificate | https://github.com/L3-iGrant/data-schemas/blob/main/schemas/covid_uk_schema.md |                                                                                  
 
 ## Contributing
