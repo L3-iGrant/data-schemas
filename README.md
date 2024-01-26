@@ -18,7 +18,7 @@
 
 # About
 
-This repository provides information on the various supported data schemaas by iGrant.io Data Wallet and Data Verifiers.
+This repository provides information on the specific existing data schemas (Based on existing standards) supported by iGrant.io Data Wallet and Data Verifiers; meant for enhanced user experience and automation. This is in addition to the JSON schema that can be manually configured. 
 
 ## Supported Schemas
 
